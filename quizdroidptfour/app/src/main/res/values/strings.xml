@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">quizdroidptfour</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_topic_over">TopicOver</string>
+    <string name="btnNext">Next</string>
+    <string name="TopicLocation">Topic Goes Here</string>
+    <string name="DescLocation">Text Desc Goes Here</string>
+    <string name="AmountofQuestionLocation">Question Amount</string>
+    <string name="QuestionLocation">Question Goes Here</string>
+    <string name="ResponseOneLocation">Response One</string>
+    <string name="ResponseTwoLocation">Response Two</string>
+    <string name="ResponseThreeLocation">Response Three</string>
+    <string name="ResponseFourLocation">Response Four</string>
+    <string name="ResponseLocation">Response</string>
+    <string name="AnswerLocation">Answer Goes Here</string>
+    <string name="HowManyRightLocation">How Many Right</string>
+    <string name="TitleLocation">Title</string>
+    <string name="ShortDescLocation">Short Description Goes Here</string>
+
+</resources>

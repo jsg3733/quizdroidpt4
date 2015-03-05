@@ -1,0 +1,56 @@
+2 + 2 =
+1
+2
+3
+4
+4
+::
+Math
+Is questions refering to mathematics and involves numbers and algorithms.
+Numbers/Algorithms
+The circumference of a circle is:
+who cares
+4
+2piR
+3
+3
+::
+Physics
+A topic based on the study of the natural science.  This includes topics such as motion and energy.
+Formulas/Theories
+What color was the hulk originally in comic books:
+green
+grey
+purple
+teal
+2
+::
+Marvel Super Heroes
+A topic based on the super heroes within the Marvel comics.
+Comic Heroes
+How many goals is a hat-trick:
+1
+2
+3
+4
+3
+What is between both blue lines called:
+Center ice
+The neutral zone
+Crease
+Face-off
+2
+::
+Hockey
+A topic based on the sport hockey which uses a stick and puck to score goals.
+Sticks/Pucks/Goals
+What is the capital of Washington:
+Kennewick
+Seattle
+Tacoma
+Olympia
+4
+::
+Geography
+A topic based on where different cities and rivers are located.
+Locations/Capitals

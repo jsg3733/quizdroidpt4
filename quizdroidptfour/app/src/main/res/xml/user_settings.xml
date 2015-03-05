@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <PreferenceCategory android:title="Settings" >
+        <EditTextPreference
+            android:title="URL"
+            android:summary="Set the URL for file download"
+            android:key="prefDownloadURL"/>
+
+        <EditTextPreference
+            android:title="Mins Until download"
+            android:summary="Set the time between downloads"
+            android:key="prefDownloadMins" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Save Button">
+        <Preference
+            android:title="Save"
+            android:key="button"
+            android:summary="This is the Save button">
+
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>
